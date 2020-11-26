@@ -58,5 +58,38 @@ console.log(txt4);
 
 const txt5 = "sakinyje vienguba \' kabute ir dviguba \" kabutes ";
 console.log(txt5);
+const txt6 = 'sakinyje vienguba \' kabute ir dviguba \" kabutes';
+console.log(txt6);
 
 
+
+const PVM = 21;
+const petroPajamos = 100;
+const marytesPajamos = 100;
+const petroMokesciai = petroPajamos * PVM /100;
+console.log('Mokesciai:', petroPajamos, '->', petroMokesciai);
+
+
+
+{/* <div>
+        <h1>JS rocks</h1>
+        <p>lorem</p>
+
+</div>      */}
+
+const jsText = 'JS rocks!';
+const emoji = ' idedu emoji';
+const htmlTEXT = 'lorem';
+
+const pilnasHtml = '<div>\
+<h1>'+ jsText + ' ' + emoji + '</h1>\
+<p>'+ htmlTEXT + '</p>\
+</div>' ; 
+
+console.log(pilnasHtml);
+
+const backtickHTML = `<div>\
+<h1>${jsText} ${emoji}</h1>\
+<p>${htmlTEXT}</p>\
+</div> `;
+console.log(backtickHTML);

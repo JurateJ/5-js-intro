@@ -10,7 +10,7 @@ kintamuju tipai:
 - tekstas (string)
 - skaicius (number)
 - logine reiksme (boolean)
-- sarasas.masyvas (array)
+- sarasas/masyvas (array)
 
 */
 
