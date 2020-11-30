@@ -4,13 +4,17 @@ Kintamieji
 inicijavimo budai
 - const (default)
 - let
-- var (pasistengti nenaudoti)
+- var (pasistengti nenaudoti) 
 
 kintamuju tipai:
 - tekstas (string)
 - skaicius (number)
 - logine reiksme (boolean)
 - sarasas/masyvas (array)
+
+kintamuju tipas (atminties atzvilgiu)
+- primityvi reiksme
+- kompleksine reiksme
 
 */
 
