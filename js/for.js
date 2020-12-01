@@ -83,7 +83,7 @@ for (let i=0; i<count; i++){
 
 const average = sum / count;
 
-console.log(`pazymiu vidurkis yra ${average}. `);
+console.log(`pazymiu vidurkis yra ${average}. `); 
 
 
 const txt = 'abcdef';
