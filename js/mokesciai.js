@@ -35,14 +35,16 @@ console.log('trecias susimoka:', mokesciai3);
 
 /*
 
-duotas skaiciu masyvas -> rasti vidurki
-duotas skaiciu masyvas -> rasti didziausia skaiciu
-duotas skaiciu masyvas -> rasti maziausia skaiciu
+duodamas skaiciu masyvas -> rasti vidurki
+duodamas skaiciu masyvas -> rasti didziausia skaiciu
+duodamas skaiciu masyvas -> rasti maziausia skaiciu
 
-duodamas textas  -> rasti kiek kartu yra panaudota ieskoma raide
-duodamas textas - > sudaryti masyva, kuriame yra santrauka kiek 
+duodamas tekstas -> rasti kiek kartu yra panaudota ieskoma raide
+duodamas tekstas -> sudaryti masyva, kuriame yra santrauka kiek ir kokios raides yra panaudotos
 
 */
+
+
 
 
 
