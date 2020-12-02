@@ -35,7 +35,19 @@ const zmogus = {
     amzius: 99,
     gMetai: 1921,
     turiSuni: false,
-    tevai: [
+    gyvVietos: [
+        {
+            miestas: 'Vilnius', 
+            gatve: "Gedimino pr."
+        },
+        {
+            miestas: 'Kaunas', 
+            gatve: "Laisves al."
+        },
+
+    ],
+    tevai: {
+        motina: {[
         {
             vardas: 'Onute',
             lytis: true
@@ -80,8 +92,11 @@ zmogus.automobilis = auto;
 
 console.log(zmogus);
 console.log(zmogus.automobilis.marke);
+
 console.log(zmogus.tevai[0].vardas);
 console.log(zmogus.tevai[1].vardas);
+
+console.log(zmogus.tevai.tevas.vardas);
 
 
 
